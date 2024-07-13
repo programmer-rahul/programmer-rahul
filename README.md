@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Rahul.<br>👀 I’m interested in Web Development.<br>👯 I’m looking to collaborate on Open-Source Web Development Projects.<br>🌱 I’m currently learning Next Js.<br>💬 Ask me about React Js.<br>⚡ Fun fact i love Anime!
+👋 Hi, I’m Rahul.<br>👀 I’m interested in Web Development.<br>👯 I’m looking to collaborate on Open-Source Web Development Projects.<br>🌱 I’m currently learning Golang.<br>⚡ Fun fact i love Anime!
 
 
 ## 🌐 Socials:
