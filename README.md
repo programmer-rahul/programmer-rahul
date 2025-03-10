@@ -1,7 +1,3 @@
-# 💫 About Me:
-👋 Hi, I’m Rahul.<br>👀 I’m interested in Full Stack Development.<br>👯 I’m looking to collaborate on Open-Source Web Development Projects.<br>🌱 I’m currently learning DSA.<br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul262830) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-singh-7b0ab8239) 
 
